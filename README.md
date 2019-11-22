@@ -1,2 +1,2 @@
 # Geekinc
-From Wordpress to React
+From Wordpress to Static 
